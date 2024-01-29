@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "hmr": "nodemon index.js",
+        "nodemon": "npm run hmr",
+        "start": "node index.js"
+    },
+    "dependencies": {}
+}
